@@ -34,13 +34,14 @@ The code for moving the vacuum cleaner and connecting to the cloud is implemente
 4. Connect the components as per the circuit diagram.
 
 ## Contributing
-
 Feel free to submit issues and pull requests. Contributions are welcome!
 
 ## Contact
-
 For questions or support, please contact:
 
 - **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+
+## License
+This project is licensed under the MIT License.
 
 
